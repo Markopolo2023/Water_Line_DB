@@ -1,4 +1,4 @@
-# Water Line Expanded Databse: Comprehensive Water Treatment Data Management System
+# Water Line Expanded Database: Comprehensive Water Treatment Data Management System
 
 <div align="center">
 
